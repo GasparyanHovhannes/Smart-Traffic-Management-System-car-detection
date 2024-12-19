@@ -12,15 +12,13 @@ This project implements a vehicle detection and tracking system using OpenCV and
 To install this project, follow these steps:
 
 1. Clone the repository:
-   ```shell
-bash
+   ```bash
    git clone https://github.com/GasparyanHovhannes/Smart-Traffic-Management-System-car-detection.git
-```
+
 2. Install Package:
-   ```shell
-bash
+   ```bash
    pip install opencv-python numpy
-```
+
 3. Download the Haar cascade file for vehicle detection:
    https://github.com/GasparyanHovhannes/Smart-Traffic-System-Management-car-detection/blob/main/haarcascade_car.xml
 4. Place the Haar cascade file in the same directory as the script.
@@ -30,7 +28,7 @@ bash
 
 Run the script to start vehicle detection:
 ```bash
-python vehicle_detection.py
+python main.py
 ```
 
 ### Syntax
