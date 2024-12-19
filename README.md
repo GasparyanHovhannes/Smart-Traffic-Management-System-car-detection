@@ -20,7 +20,7 @@ To install this project, follow these steps:
    pip install opencv-python numpy
 
 3. Download the Haar cascade file for vehicle detection:
-   https://github.com/GasparyanHovhannes/Smart-Traffic-System-Management-car-detection/blob/main/haarcascade_car.xml
+   https://github.com/GasparyanHovhannes/Smart-Traffic-Management-System-car-detection/blob/main/haarcascade_car.xml
 4. Place the Haar cascade file in the same directory as the script.
 5. Replace the video_path variable in the script with the path to your video file.
 
