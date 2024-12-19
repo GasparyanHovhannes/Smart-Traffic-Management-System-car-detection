@@ -14,7 +14,7 @@ To install this project, follow these steps:
 1. Clone the repository:
    ```shell
 bash
-   git clone https://github.com/GasparyanHovhannes/Smart-Traffic-System-Management-car-detection.git
+   git clone https://github.com/GasparyanHovhannes/Smart-Traffic-Management-System-car-detection.git
 ```
 2. Install Package:
    ```shell
